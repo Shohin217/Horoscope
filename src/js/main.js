@@ -1,5 +1,5 @@
-const day = 10;
-const month = 10;
+const day = 1;
+const month = 12;
 
 
 const CAPRICORN = "capricorn - Козерог"; //Козерог +
